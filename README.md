@@ -18,3 +18,4 @@ The project focuses on the implementation and evaluation of a Recurrent Neural N
 - Data preprocessing and exploration
 - LSTM model development and training
 - Model evaluation and visualisations
+- Client report
